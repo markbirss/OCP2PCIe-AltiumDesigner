@@ -69,3 +69,30 @@ OCP转PCIe电路与前一版本完全相同
 
 * [Altium Designer](https://www.altium.com.cn/)
 * [OCP2PCIe](https://github.com/KCORES/OCP2PCIe/)
+
+
+
+https://forums.servethehome.com/index.php?threads/cheap-ocp-mezzanine-cards-to-standard-pcie.27886/
+
+https://forums.servethehome.com/index.php?threads/upgrade-ocp-to-pci-e-adapter-for-two10gb-sfp-ports-ethernet-card-only-12.27971/
+
+https://github.com/KCORES/OCP2PCIe
+http://www.mellanox.com/downloads/WinOF/MLNX_VPI_WinOF-5_50_53000_All_Win2019_x64.exe
+
+Convert mcx342a card from single to dual port
+https://zhuanlan.zhihu.com/p/114822136
+
+https://github.com/xiaoxinpro/OCP2PCIe-AltiumDesigner
+
+Convert single port to dual port Card
+https://link.zhihu.com/?target=https%3A//www.bilibili.com/video/av96911112
+Link for dual kit card parts
+https://item.taobao.com/item.htm?spm=a1z10.3-c.w4002-1158220236.19.1c17657c0cYyBD&id=614293085592
+
+https://oshwhub.com/keprice/ocp-zhuaipciex4
+
+https://www.chiphell.com/thread-2196972-1-1.html
+
+
+R221
+https://www.geewiz.co.za/cables-adapters-accessories/84588-vantec-ugt-m2pc100-adp-m2-nvme-ssd-pcie-x4-adapter.html
