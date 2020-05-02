@@ -93,6 +93,7 @@ https://oshwhub.com/keprice/ocp-zhuaipciex4
 
 https://www.chiphell.com/thread-2196972-1-1.html
 
+https://blog.mxpkx.com/index.php/archives/225/
 
 R221
 https://www.geewiz.co.za/cables-adapters-accessories/84588-vantec-ugt-m2pc100-adp-m2-nvme-ssd-pcie-x4-adapter.html
